@@ -33,3 +33,4 @@ jobs:
           context: ./nodejs-demo-app
           push: true
           tags: jawahar11/elevate-node-app:latest
+          
